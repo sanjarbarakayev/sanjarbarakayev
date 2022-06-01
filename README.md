@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 <p style="margin-bottom: 15px">
 	<img style="margin-bottom: 20px;" align="left" alt="sanjarbarkayev's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sanjarbarakayev&show_icons=true&hide_bordesr=true&theme=dracula" />
 </p>
-<div></div>
-<div></div>
+<br/><br/>
 <p>
 	<img align="left" alt="sanjarbarkayev's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact" />
 </p>
