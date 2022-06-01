@@ -13,21 +13,33 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [<img width="40" src="img/socials/instagram.png" target="_blank" style="margin-right: 4px" />](https://www.instagram.com/barakayevsanjar/)
+&nbsp;
 [<img width="36" src="img/socials/telegram.png" target="_blank" style="margin-right: 4px" />](https://t.me/sanjarbarakayev)
+&nbsp;
 [<img width="36" src="img/socials/linkedin.png" target="_blank" style="margin-right: 4px" />](https://www.linkedin.com/in/sanjarbarakayev/)
+&nbsp;
 [<img width="36" src="img/socials/web.png" target="_blank" />](https://https://sanjarbarakayev.uz)
 <!-- [<img width="36" src="img/twitter.png" />](https) -->
 
 ### Languages and tools:
 <div style="display: flex; align-items: center; gap: 4px">
+&nbsp;
 <img width="40" src="img/tools/html-5.png" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/css-3.png" alt="html5" />
+&nbsp;
 <img width="30" src="img/tools/js.jpg" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/sass.png" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/tailwind.png" alt="html5" />
+&nbsp;
 <img width="38" src="img/tools/vuejs.png" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/nuxt-dot-js.png" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/git.png" alt="html5" />
+&nbsp;
 <img width="40" src="img/tools/github.png" alt="html5" />
 </div>
 
