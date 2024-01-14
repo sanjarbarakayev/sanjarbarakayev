@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Imkon.uz](https://imkon.uz)
+- 🔭 I’m currently working on [Commeta](https://commeta.uz)
 - 🌱 I’m currently learning English and Cool animation for web 😁
 - 👯 I’m looking to collaborate with peoples who have GREAT GOALS!
 
